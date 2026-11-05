@@ -1,0 +1,6 @@
+[
+  {"args":["gha_concurrency_replay.py","fixtures/single.json"],"exit":0},
+  {"args":["gha_concurrency_replay.py","fixtures/preempt.json"],"exit":0},
+  {"args":["gha_concurrency_replay.py","fixtures/max.json"],"exit":0},
+  {"args":["gha_concurrency_replay.py","fixtures/idle-finish.json"],"exit":2}
+]
